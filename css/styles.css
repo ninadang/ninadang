@@ -1,0 +1,42 @@
+@font-face {
+	font-family: Miso;
+	src: url(miso-light.otf);
+}
+
+body {
+	width: 8000px;
+	font-family: Miso;
+	font-size: 20px;
+}
+
+div	{
+	display: block;
+}
+
+.panel { 
+	width: 1920px; 
+	height: 1080px;
+	float: left; 
+	padding-left: 30px; 
+	padding-right: 1040px; 
+} 
+
+.logo {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 288px;
+	height: 302px;
+	margin-top: -151px;
+	margin-left: -144px;
+	text-align: center;
+}
+
+.name {
+	font-size: 28px;
+}
+
+.works {
+	font-size: 38px;
+}
+
